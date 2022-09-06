@@ -25,15 +25,6 @@
             :source="contents[sectionId]"
           ></vue-markdown>
         </div>
-        <div class="credit">
-          This website is based on 
-          <a 
-            href="https://github.com/jmbyun/jmbyun.github.io" 
-            target="_blank"
-          >
-            https://github.com/jmbyun/jmbyun.github.io
-          </a>
-        </div>
       </div>
     </div>
   </div>
